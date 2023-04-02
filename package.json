@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ewertoncxavier.github.io/3D-View",
+  "homepage": "https://ewertoncxavier.github.io/3D-View/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
