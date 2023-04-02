@@ -1,9 +1,9 @@
 {
   "name": "3D-View",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
-  "homepage": "https://ewertoncxavier.github.io/3D-View/",
+  "homepage": "https://ewertoncxavier.github.io/3D-View",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
