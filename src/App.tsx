@@ -1,10 +1,8 @@
 import { PresentationControls, Stage, useGLTF } from '@react-three/drei';
 import { Canvas } from '@react-three/fiber';
 
-
 function Model(props: any) {
   const { scene } = useGLTF('./src/assets/HTLRBR32L10_3D.glb');
-
   return <primitive object={scene} {...props} />
 }
 
