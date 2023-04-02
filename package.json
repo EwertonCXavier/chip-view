@@ -1,9 +1,9 @@
 {
-  "name": "3D-View",
+  "name": "chip-view",
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://ewertoncxavier.github.io/3D-View",
+  "homepage": "https://ewertoncxavier.github.io/chip-view",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

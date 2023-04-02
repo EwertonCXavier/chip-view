@@ -4,7 +4,7 @@ import { defineConfig } from 'vite'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/3D-View',
+  base: '/chip-view',
   build: {
     chunkSizeWarningLimit: 1600,
   },
